@@ -1,3 +1,12 @@
+# ⚠️ ARCHIVED PROJECT
+
+> [!IMPORTANT]  
+> **This repository has been archived.** This was a personal pet project created for learning purposes. As **Jetpack Compose** is now the modern standard for Android development, this View-based implementation is no longer maintained. 
+> 
+> For modern UI development, please refer to the [official Compose documentation](https://developer.android.com/jetpack/compose).
+
+---
+
 # ClickManager [![](https://jitpack.io/v/rafambn/ClickManager.svg)](https://jitpack.io/#rafambn/ClickManager)
 ClickManager is designed to prevent unintended double-click events
 ## The problem
